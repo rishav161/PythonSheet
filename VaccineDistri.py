@@ -11,3 +11,4 @@ for i in range(t):
         else:
             nri+=1
     print(math.ceil(ri/d)+math.ceil(nri/d))
+    
